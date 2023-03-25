@@ -44,3 +44,5 @@ Feel free to check out my repositories and give them a ⭐ if you find them inte
 ![](https://img.shields.io/badge/Code-CloudFlare-informational?style=flat&logo=CloudFlare&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=Linux&logoColor=white&color=4AB197)
 
+## Statistic
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vseriousv&theme=cobalt&show_icons=true)
