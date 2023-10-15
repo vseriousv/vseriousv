@@ -12,8 +12,8 @@ I'm a Senior Backend Developer specializing in blockchain projects. I work on th
 
 - 🔭 I'm currently working on backend and DevOps in blockchain companies.
 - 🌱 I'm dedicated to the growth of the KnowYourBackend community.
-- 💼 I've created a side project called [siple.io](siple.io), which is a simple interface for server configuration management.
-- 📫 How to reach me: https://linktr.ee/ks_g
+- 💼 I've created a side project called [siple.io](https://siple.io/), which is a simple interface for server configuration management.
+- 📫 How to reach me: [other links](https://linktr.ee/ks_g)
 
 ### 📌 My GitHub Repositories
 
