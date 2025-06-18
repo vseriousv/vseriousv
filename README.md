@@ -1,19 +1,18 @@
 [![kirill_s_gavr GitHub Banner](./assets/banner-github.png)](https://linktr.ee/ks_g)
-[![Telegram](https://img.shields.io/badge/Telegram-%40kyb_x-blue?style=plastic&logo=telegram)](https://t.me/kyb_x)
+[![Telegram](https://img.shields.io/badge/Telegram-%40kyb_x-blue?style=plastic&logo=telegram)](https://t.me/gavrilovlog)
 [![Instagram](https://img.shields.io/badge/Instagram-%40kirill_s_gavr-D301C5?style=plastic&logo=instagram)](https://www.instagram.com/kirill_s_gavr/)
 [![YouTube](https://img.shields.io/badge/YouTube-%40kirill_s_gavr-FF0000?style=plastic&logo=youtube)](https://www.youtube.com/@kirill_s_gavr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kirill_s_gavr-0077B5?style=plastic&logo=linkedin)](https://www.linkedin.com/in/kirill-gavrilov-84a94ab6/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kirill_s_gavr-0077B5?style=plastic&logo=linkedin)](https://www.linkedin.com/in/kirill-s-gavr)
+[![X](https://img.shields.io/badge/X-gavrilovlog-0077B5?style=plastic&logo=x)]](https://x.com/gavrilovlog)
 
 ## Hey there 👋
 
-I'm a Senior Backend Developer specializing in blockchain projects. I work on the development of backend systems and DevOps in blockchain companies. I'm also passionate about growing the KnowYourBackend community.
+I'm a TechLead Backend at GetBlock.io.
 
 ### 📝 About Me
 
 - 🔭 I'm currently working on backend and DevOps in blockchain companies.
-- 🌱 I'm dedicated to the growth of the KnowYourBackend community.
-- 💼 I've created a side project called [siple.io](https://siple.io/), which is a simple interface for server configuration management.
-- 📫 How to reach me: [other links](https://linktr.ee/ks_g)
+- 🌱 I'm dedicated to the growth of the kyb_chait community.
 
 ### 📌 My GitHub Repositories
 
