@@ -1,4 +1,4 @@
-[![kirill_s_gavr GitHub Banner](./assets/banner-github.png)]
+![kirill_s_gavr GitHub Banner](./assets/banner-github.png)
 [![Telegram](https://img.shields.io/badge/Telegram-%40gavrilovlog-blue?style=plastic&logo=telegram)](https://t.me/gavrilovlog)
 [![Instagram](https://img.shields.io/badge/Instagram-%40kirill_s_gavr-D301C5?style=plastic&logo=instagram)](https://www.instagram.com/kirill_s_gavr/)
 [![YouTube](https://img.shields.io/badge/YouTube-%40kirill_s_gavr-FF0000?style=plastic&logo=youtube)](https://www.youtube.com/@kirill_s_gavr)
