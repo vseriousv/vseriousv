@@ -1,49 +1,34 @@
 ![kirill_s_gavr GitHub Banner](./assets/banner-github.png)
-[![Telegram](https://img.shields.io/badge/Telegram-%40gavrilovlog-blue?style=plastic&logo=telegram)](https://t.me/gavrilovlog)
-[![Instagram](https://img.shields.io/badge/Instagram-%40kirill_s_gavr-D301C5?style=plastic&logo=instagram)](https://www.instagram.com/kirill_s_gavr/)
-[![YouTube](https://img.shields.io/badge/YouTube-%40kirill_s_gavr-FF0000?style=plastic&logo=youtube)](https://www.youtube.com/@kirill_s_gavr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kirill_s_gavr-0077B5?style=plastic&logo=linkedin)](https://www.linkedin.com/in/kirill-s-gavr)
-[![X](https://img.shields.io/badge/X-gavrilovlog-0077B5?style=plastic&logo=x)](https://x.com/gavrilovlog)
+## Hi, I'm Kirill Gavrilov
 
-## Hey there 👋
+I'm an engineer. I love technology of any kind.
 
-I'm a TechLead Backend at GetBlock.io.
+I've been CTO of one of the world's top-5 centralized crypto exchanges, CTO at Rivo.xyz (one-click DeFi investing), and Lead Backend at multiple Web3 projects on Waves blockchain. Worked as Lead Engineering at GetBlock.io — blockchain node infrastructure provider.
 
-### 📝 About Me
+Built AlmazVPN — a Telegram-based VPN service that grew into a B2B solution. Sold 90% of the project and continued as CTO.
 
-- 🔭 I'm currently working on backend and DevOps in blockchain companies.
-- 🌱 I'm dedicated to the growth of the kyb_chait community.
+In 2024 I left employment and chose entrepreneurship. Now I build products alone. With AI.
 
-### 📌 My GitHub Repositories
+I believe software architecture is the last skill AI won't replace. AI can write code, but it can't decide how systems should talk to each other, where data should live, or what to do when everything falls apart at 3 AM.
 
-In my GitHub account, you'll find various repositories showcasing my work in Golang, Node.js, and Shell. These projects cover different areas related to blockchain, DevOps, and backend development.
+That's what I'm focused on: architecture decisions in the age of vibe coding.
 
-Feel free to check out my repositories and give them a ⭐ if you find them interesting!
+### What I'm Building
 
-## 💼 Skills
+**MindPost** — content automation platform. 5 microservices, Event-Driven Architecture, built from scratch with AI.
 
-![](https://img.shields.io/badge/Code-GoLang-informational?style=flat&logo=Go&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-NestJS-informational?style=flat&logo=NestJS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-RabbitMQ-informational?style=flat&logo=RabbitMQ&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redis-informational?style=flat&logo=Redis&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Terraform-informational?style=flat&logo=Terraform&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ansible-informational?style=flat&logo=Ansible&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Nginx-informational?style=flat&logo=Nginx&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=Docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-GitLab_CI-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Travis_CI-informational?style=flat&logo=Travis&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Circle_CI-informational?style=flat&logo=Circle&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CloudFlare-informational?style=flat&logo=CloudFlare&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=Linux&logoColor=white&color=4AB197)
+**DzinDzon** — mobile video calls app with real-time communication.
 
-## Statistic
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vseriousv&theme=cobalt&show_icons=true)
+**Payment System** — universal payment infrastructure for all my projects. 6 Go microservices communicating through NATS, zero direct dependencies between services.
 
-<img align="left" src="https://komarev.com/ghpvc/?username=vseriousv&label=Profile%20Views%20&color=AC1F21&style=flat-square" alt="vseriousv" />
+### What I Write About
+
+I run a Telegram channel about Software Architecture — real decisions from real projects, engineering analogies, and honest failures. No tutorials, no fluff.
+
+### Stack
+
+Go · TypeScript · Next.js · PostgreSQL · Redis · NATS · Docker · Kubernetes · Ansible
+
+### Connect
+
+[Telegram](https://t.me/gavrilovlog) ・ [Instagram](https://www.instagram.com/kirill_s_gavr/) ・ [YouTube](https://www.youtube.com/@kirill_s_gavr) ・ [Threads](https://www.threads.net/@kirill_s_gavr) ・ [LinkedIn](https://www.linkedin.com/in/kirill-s-gavr) ・ [X](https://x.com/gavrilovlog)
